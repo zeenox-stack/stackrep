@@ -1,0 +1,70 @@
+img{ 
+    border-radius: 10px; 
+    margin: 10px; 
+    width: 100%; 
+    max-width: 100%;
+} 
+
+.description { 
+    font-size: 18px; 
+    font-family: 'Trebuchet MS', 'sans-serif'; 
+    text-align: center;
+} 
+
+h2 { 
+    font-size: 18px; 
+    font-family: 'Trebuchet MS','sans-serif'; 
+    margin-left: 15px;
+} 
+
+h1 { 
+    margin-left: 15px;
+}
+
+.prep { 
+    color: purple; 
+} 
+
+.prepare { 
+    background-color: #ffd6fe;  
+    border-radius: 5px; 
+    display: block; 
+    padding: 8px; 
+}
+
+.ingred { 
+    color: #cdb66f; 
+} 
+
+.instruct { 
+    color: #ae3d00;
+} 
+
+.li { 
+    font-size: 14px; 
+    font-family: 'Trebuchet MS', sans-serif; 
+} 
+
+span { 
+    color: #ae3d00; 
+} 
+
+.nutritions { 
+    color: #cdb66f; 
+} 
+
+li { 
+    padding: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'sans-serif';
+} 
+
+p.prot { 
+    display: flex; 
+    justify-content: space-between; 
+    font-weight: bold; 
+    margin: 10px 50px;
+} 
+
+hr { 
+    margin: 5px 12px;
+}
